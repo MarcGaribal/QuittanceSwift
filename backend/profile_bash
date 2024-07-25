@@ -1,0 +1,7 @@
+### ALIAS ###
+alias ll="ls -lh";
+alias lla="ls -lha";
+alias www="su -l www-data -s /bin/bash";
+
+### export ###
+export PATH="/root/.symfony5/bin:$PATH"
